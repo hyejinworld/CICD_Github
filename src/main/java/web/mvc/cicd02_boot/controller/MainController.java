@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class MainController {
     @GetMapping("/")
     public String index(){
-        return "GitHub Actions를 이용한 github second CI/CD TEST-자동배포";
+        return "GitHub Actions를 이용한 github yml수정-자동배포";
     }
 }
