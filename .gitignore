@@ -27,7 +27,7 @@ out/
 !**/src/test/**/out/
 
 application.*
-
+docker-compose.yml
 
 ### NetBeans ###
 /nbproject/private/
