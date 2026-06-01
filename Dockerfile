@@ -1,4 +1,4 @@
-FROM eclipse-temurin:17-jdk
+FROM eclipse-temurin:21-jdk
 
 # 빌드된 JAR 복사
 COPY build/libs/*SNAPSHOT.jar app.jar
